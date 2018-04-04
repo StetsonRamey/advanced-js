@@ -1,0 +1,23 @@
+{
+  "name": "advanced-js",
+  "version": "1.0.0",
+  "description": "week 11 advanced js homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StetsonRamey/advanced-js.git"
+  },
+  "keywords": [],
+  "author": "Stetson Ramey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StetsonRamey/advanced-js/issues"
+  },
+  "homepage": "https://github.com/StetsonRamey/advanced-js#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
